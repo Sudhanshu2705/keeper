@@ -21,7 +21,7 @@ function App() {
         });
     });
   }
-
+let x;
   return (
     <div>
       <Header />
