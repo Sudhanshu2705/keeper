@@ -13,6 +13,7 @@ function Note(props) {
             <button onClick={handleClick}>DELETE</button>
         </div>
     );
+
 }
 
 export default Note;
